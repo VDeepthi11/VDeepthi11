@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/random-quotes-app/static/css/main.174f837a.css",
+    "main.js": "/random-quotes-app/static/js/main.a73a5742.js",
+    "static/media/lights.jpg": "/random-quotes-app/static/media/lights.8d7b2978bd7626d7f85a.jpg",
+    "index.html": "/random-quotes-app/index.html",
+    "main.174f837a.css.map": "/random-quotes-app/static/css/main.174f837a.css.map",
+    "main.a73a5742.js.map": "/random-quotes-app/static/js/main.a73a5742.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.174f837a.css",
+    "static/js/main.a73a5742.js"
+  ]
+}
